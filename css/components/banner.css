@@ -1,0 +1,26 @@
+.banner-image {
+    background-image: url("../../images/background.png");
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+}
+
+.banner-text {
+    color: white;
+    text-shadow: 2px 2px #888888;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 130px;
+}
+
+.banner-button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 8px 32px;
+  text-decoration: none;
+  border-radius: 20px;
+  font-size: 16px;
+}
